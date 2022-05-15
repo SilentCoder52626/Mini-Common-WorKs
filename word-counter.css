@@ -17,7 +17,7 @@ body{
     border: 2px solid deepskyblue;
     padding: 40px;
     border-radius: 20px;
-    width: 50rem;
+    width: auto;
 }
 .message{
     border: 2px solid deepskyblue;
